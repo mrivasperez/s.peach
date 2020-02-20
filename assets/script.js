@@ -72,4 +72,7 @@ function createBox(item) {
     // @TODO - Speak event
 
     main.appendChild(box);
-}
+};
+
+// Toggle text box
+toggleBtn.addEventListener('click', () => document.getElementById('text-box').classList.toggle('show'));
