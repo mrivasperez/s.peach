@@ -12,8 +12,8 @@ Try it - [Typing Game](https://mrivasperez.github.io/speechie/)
 ### Acknowledgements
 - Brad Travery for the code along.
 ### License
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-> This project is licensed under the [Unlicense](https://github.com/mrivasperez/neumorphic-typing-game/blob/master/LICENSE)
+This project is licensed under the [Unlicense](https://github.com/mrivasperez/neumorphic-typing-game/blob/master/LICENSE)
+> [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## Screenshots
 ![Screenshot of main page](assets/screenshot.png)
