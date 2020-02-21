@@ -16,7 +16,7 @@ Try it - [Typing Game](https://mrivasperez.github.io/speechie/)
 > This project is licensed under the [Unlicense](https://github.com/mrivasperez/neumorphic-typing-game/blob/master/LICENSE)
 
 ## Screenshots
-![Screenshot of main page(assets/screenshot.png)]
+![Screenshot of main page](assets/screenshot.png)
 > The main page with preconfigured speech options and images.
 
 ![Screenshot of options modal](assets/screenshot2.png)
