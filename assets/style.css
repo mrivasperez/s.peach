@@ -1,18 +1,22 @@
-@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  background: #ffefea;
-  font-family: 'Lato', sans-serif;
+  background: #d7a9a5;
+  font-family: 'Open Sans', sans-serif;
   min-height: 100vh;
   margin: 0;
 }
 
 h1 {
   text-align: center;
+  font-size: 3rem;
+  color: #b63e7b;
+  text-shadow: 2px 2px 4px #00000073;
+
 }
 
 .container {
@@ -22,12 +26,15 @@ h1 {
 
 .btn {
   cursor: pointer;
-  background-color: darksalmon;
+  background-color: #b63e7b;
   border: 0;
   border-radius: 4px;
   color: #fff;
   font-size: 16px;
-  padding: 8px;
+  padding: 10px 16px;
+  width: 100%;
+  box-shadow:  0px 4px 8px #00000052;
+
 }
 
 .btn:active {
@@ -63,7 +70,7 @@ select:focus {
 }
 
 .text-box select {
-  background-color: darksalmon;
+  background-color: #b36e7b;
   border: 0;
   color: #fff;
   font-size: 12px;
@@ -95,6 +102,7 @@ main {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 10px;
+  margin-top: 40px;
 }
 
 .box {
@@ -105,10 +113,17 @@ main {
   flex-direction: column;
   overflow: hidden;
   transition: box-shadow 0.2s ease-out;
+  margin: 20px;
+  border-radius: 50px;
+background: #d7a9a5;
+box-shadow:  9px 9px 10px #b7908c, 
+             -9px -9px 10px #f7c2be;
 }
 
 .box.active {
-  box-shadow: 0 0 10px 5px darksalmon;
+  background: #d7a9a5;
+  box-shadow:  15px 15px 30px #9d7b78, 
+               -15px -15px 30px #ffd7d2;
 }
 
 .box img {
@@ -118,7 +133,7 @@ main {
 }
 
 .box .info {
-  background-color: darksalmon;
+  background-color: #b36e7b;
   color: #fff;
   font-size: 18px;
   letter-spacing: 1px;
