@@ -5,7 +5,7 @@
 (App Demo)[https://mrivasperez.github.io/speechie/]
 
 ## Screenshots
-![Screenshot of main page(assets/screenshot.png)]
+![Screenshot of main page](assets/screenshot.png)
 > The main page with preconfigured speech options and images.
 
 ![Screenshot of options modal](assets/screenshot2.png)
