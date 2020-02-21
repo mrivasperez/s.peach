@@ -21,7 +21,3 @@ Try it - [Typing Game](https://mrivasperez.github.io/speechie/)
 
 ![Screenshot of options modal](assets/screenshot2.png)
 > A screen shot of the options modal where user can type custom text and select different voices.
-
-## Use
-Run index.html in a browser.
-Try it - [Typing Game](https://mrivasperez.github.io/neumorphic-typing-game/)
